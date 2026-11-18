@@ -188,4 +188,4 @@ run.sh                  Local startup and cleanup
 
 ## Sharing and license
 
-Published on GitHub by the owner after independent local review. The owner has not selected an open-source license for this package; no broad redistribution license is granted here. Dependency licenses remain their own.
+This repository is released under the MIT License. See [LICENSE](LICENSE). Dependency licenses remain their own.
