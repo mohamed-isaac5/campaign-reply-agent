@@ -1,0 +1,24 @@
+{
+  "revision": "video-v2",
+  "product_source": "candidate-7 unchanged",
+  "narration": "all 13 original clips, wording unchanged",
+  "duration_seconds": 494.423,
+  "bytes": 14641319,
+  "video_duration_seconds": 494.359961,
+  "audio_duration_seconds": 494.422667,
+  "av_duration_difference_seconds": 0.0627,
+  "freeze_check": {
+    "filter": "freezedetect=n=-45dB:d=15",
+    "segments_found": 0
+  },
+  "black_check": {
+    "filter": "blackdetect=d=0.2:pix_th=0.10",
+    "segments_found": 0
+  },
+  "last_frame_inspected_at_seconds": 493.8,
+  "chapters": 13,
+  "explainer_cards_per_chapter": 4,
+  "max_explainer_card_seconds": 11.16,
+  "live_connections": false,
+  "real_sends": false
+}

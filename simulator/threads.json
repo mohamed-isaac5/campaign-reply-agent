@@ -1,0 +1,58 @@
+[
+  {
+    "external_id": "sim-001",
+    "subject": "Re: September campaign",
+    "contact_email": "ahmed@example.com",
+    "contact_name": "Ahmed",
+    "body": "Hi, how much does it cost exactly?"
+  },
+  {
+    "external_id": "sim-002",
+    "subject": "Re: September campaign",
+    "contact_email": "mona@example.com",
+    "contact_name": "Mona",
+    "body": "Thanks for reaching out. Is there a discount if we take the service for 3 branches?"
+  },
+  {
+    "external_id": "sim-003",
+    "subject": "Re: September campaign",
+    "contact_email": "karim@example.com",
+    "contact_name": "Karim",
+    "body": "Please stop these messages."
+  },
+  {
+    "external_id": "sim-004",
+    "subject": "Automatic reply: out of office",
+    "contact_email": "sara@example.com",
+    "contact_name": "Sara",
+    "body": "Automatic reply: I'm out of office right now and will be back soon. auto-reply"
+  },
+  {
+    "external_id": "sim-005",
+    "subject": "Re: September campaign",
+    "contact_email": "omar@example.com",
+    "contact_name": "Omar",
+    "body": "Nice idea, but not now \u2014 call me next month."
+  },
+  {
+    "external_id": "sim-006",
+    "subject": "Re: September campaign",
+    "contact_email": "laila@example.com",
+    "contact_name": "Laila",
+    "body": "Quick question: is there technical support after subscribing?"
+  },
+  {
+    "external_id": "sim-007",
+    "subject": "Re: September campaign",
+    "contact_email": "hassan@example.com",
+    "contact_name": "Hassan",
+    "body": "Okay."
+  },
+  {
+    "external_id": "sim-001",
+    "subject": "Re: September campaign",
+    "contact_email": "ahmed@example.com",
+    "contact_name": "Ahmed",
+    "body": "Hi, how much does it cost exactly?"
+  }
+]

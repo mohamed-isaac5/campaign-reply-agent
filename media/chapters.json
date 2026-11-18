@@ -1,0 +1,80 @@
+[
+  {
+    "number": 1,
+    "start_seconds": 0,
+    "duration_seconds": 32.04,
+    "title": "A calmer way to handle campaign replies"
+  },
+  {
+    "number": 2,
+    "start_seconds": 32.04,
+    "duration_seconds": 35.16,
+    "title": "Start on your own machine"
+  },
+  {
+    "number": 3,
+    "start_seconds": 67.2,
+    "duration_seconds": 36.08,
+    "title": "Give the agent facts, not guesses"
+  },
+  {
+    "number": 4,
+    "start_seconds": 103.28,
+    "duration_seconds": 38.4,
+    "title": "Review first. Permission stays explicit."
+  },
+  {
+    "number": 5,
+    "start_seconds": 141.68,
+    "duration_seconds": 40.28,
+    "title": "See the work that actually arrived"
+  },
+  {
+    "number": 6,
+    "start_seconds": 181.96,
+    "duration_seconds": 35.0,
+    "title": "Make a decision with the full context"
+  },
+  {
+    "number": 7,
+    "start_seconds": 216.96,
+    "duration_seconds": 38.16,
+    "title": "Approve the exact words"
+  },
+  {
+    "number": 8,
+    "start_seconds": 255.12,
+    "duration_seconds": 40.16,
+    "title": "New context changes the decision"
+  },
+  {
+    "number": 9,
+    "start_seconds": 295.28,
+    "duration_seconds": 33.2,
+    "title": "Readable threads, even on a phone"
+  },
+  {
+    "number": 10,
+    "start_seconds": 328.48,
+    "duration_seconds": 32.52,
+    "title": "Keep the operator in control"
+  },
+  {
+    "number": 11,
+    "start_seconds": 361.0,
+    "duration_seconds": 44.16,
+    "title": "What changed since the earlier demo"
+  },
+  {
+    "number": 12,
+    "start_seconds": 405.16,
+    "duration_seconds": 44.64,
+    "title": "Optional connections, explained, not demonstrated live"
+  },
+  {
+    "number": 13,
+    "start_seconds": 449.8,
+    "duration_seconds": 44.52,
+    "title": "A useful local prototype. Honest boundaries."
+  }
+]
